@@ -1,0 +1,8 @@
+/home/igor/110-2023/Fedosov_IA/course_2/SDB2/build/CMakeFiles/edit_cache.dir
+/home/igor/110-2023/Fedosov_IA/course_2/SDB2/build/CMakeFiles/rebuild_cache.dir
+/home/igor/110-2023/Fedosov_IA/course_2/SDB2/build/Server/CMakeFiles/ServerApp.dir
+/home/igor/110-2023/Fedosov_IA/course_2/SDB2/build/Server/CMakeFiles/edit_cache.dir
+/home/igor/110-2023/Fedosov_IA/course_2/SDB2/build/Server/CMakeFiles/rebuild_cache.dir
+/home/igor/110-2023/Fedosov_IA/course_2/SDB2/build/Client/CMakeFiles/ClientApp.dir
+/home/igor/110-2023/Fedosov_IA/course_2/SDB2/build/Client/CMakeFiles/edit_cache.dir
+/home/igor/110-2023/Fedosov_IA/course_2/SDB2/build/Client/CMakeFiles/rebuild_cache.dir

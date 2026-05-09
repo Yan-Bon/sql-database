@@ -1,0 +1,1001 @@
+INSERT Mikhail 351 8.2 Transfer from another faculty END
+INSERT Platon 987 6.5 Single parent END
+RESELECT name=Kira rating=5.8-7.3 END
+PRINT name group rating info END
+INSERT Mikhail 861 5.3 Literary club member END
+DELETE rating=7.5-9.4 END
+RESELECT name=Valentina rating=4.9-6.1 END
+UPDATE name=Zlata SET name=Denis rating=3.8 info=Academic leave due to illness END
+RESPONSE rating END
+UPDATE group=419 SET name=Demid group=606 rating=4.4 info=Legal clinic volunteer END
+UPDATE name=Kam* group=219 SET name=Vasiliy group=813 rating=7.9 info=Programming consultant END
+PRINT name group rating info END
+SELECT name=Pavel group=296 END
+INSERT Zemfira 136 7.0 Dual major END
+PRINT name group rating info END
+RESPONSE group rating END
+RESPONSE name group rating END
+SELECT name=Larisa group=228 END
+INSERT Ulyana 798 3.8 Debate club participant END
+DELETE name=Bogdana END
+INSERT Debora 844 3.4 Historical society member END
+INSERT Daniil 683 6.4 Transfer from another faculty END
+INSERT Elvira 712 2.5 Programming consultant END
+INSERT Bella 241 4.3 Architectural projects participant END
+DELETE group=266 END
+UPDATE name=Yar* group=957 SET name=Yasmina rating=3.9 info=Hackathon winner END
+UPDATE rating=3.9-5.5 SET rating=3.8 info=Language courses END
+DELETE name=Ilya* rating=2.9-4.3 END
+DELETE name=Galin* group=643 END
+PRINT name rating END
+PRINT name group rating END
+SELECT name=Matvey group=121 END
+INSERT Darina 517 6.1 Repeating a year END
+DELETE name=Agata* group=814 END
+RESELECT group=185 END
+INSERT Nadezhda 164 2.6 Film club member END
+PRINT group rating END
+RESPONSE name group rating info END
+INSERT Svyatoslav 644 2.5 Chess team member END
+RESPONSE name group rating END
+PRINT group rating info END
+RESPONSE name group rating END
+DELETE  END
+INSERT Kseniya 956 4.8 Film club member END
+UPDATE name=Gle* SET name=Artur group=538 info=Custom term paper writer END
+DELETE name=Zhasmin END
+PRINT name group END
+RESELECT name=Ulyana rating=7.5-9.0 END
+RESELECT rating=5.4-6.7 END
+PRINT name group rating info END
+SELECT  END
+RESELECT name=Taras group=635 END
+RESPONSE name rating END
+PRINT name group rating info END
+UPDATE rating=3.8-5.8 SET name=Faina group=194 rating=6.6 info=Architectural projects participant END
+DELETE name=Kamil* END
+UPDATE name=Timur SET name=Khariton rating=9.2 info=Enhanced academic scholarship END
+RESELECT group=496 rating=6.2-7.4 END
+SELECT  END
+RESELECT name=Kamilla rating=5.2-6.7 END
+RESPONSE name rating info END
+INSERT Bozhena 356 6.4 Freshmen mentor END
+RESELECT name=Niko* group=618 END
+RESELECT group=559 END
+PRINT name group rating info END
+SELECT name=Lyudmila rating=5.7-7.6 END
+PRINT group rating info END
+DELETE name=Izabella END
+RESPONSE rating END
+SELECT group=410-412 rating=3.1-4.2 END
+PRINT name group rating END
+INSERT Gleb 327 8.6 Honors student END
+INSERT Angelina 682 2.6 Disability group 3 END
+PRINT group rating END
+SELECT rating=7.3-8.9 END
+PRINT name group rating END
+RESPONSE name END
+UPDATE group=154 rating=7.6-9.2 SET name=Zhdan rating=6.3 info=Science competition participant END
+RESELECT group=432 rating=2.9-4.2 END
+UPDATE name=Ibragi* group=465 rating=5.9-7.7 SET name=Dominika group=478 END
+RESELECT name=Ibragim* END
+RESELECT name=Pelageya group=122 rating=5.4-6.9 END
+INSERT Ustinya 722 3.2 Festival organizer END
+PRINT name rating END
+RESPONSE name group END
+INSERT Vlad 653 3.7 Tourism club member END
+PRINT  END
+SELECT rating=4.9-6.0 END
+RESELECT group=708 rating=5.2-6.9 END
+SELECT name=Ange* group=608 END
+INSERT Roman 477 6.0 Historical society member END
+INSERT Aleksey 751 4.4 Neuroscience research participant END
+RESELECT group=831 END
+PRINT name rating END
+DELETE group=198 END
+SELECT group=816 rating=7.1-9.0 END
+SELECT group=675-677 END
+RESELECT group=788 rating=7.9-9.6 END
+RESPONSE name group rating info END
+RESPONSE group rating END
+PRINT rating END
+DELETE name=Yaroslava rating=7.5-8.5 END
+RESELECT group=736 END
+UPDATE name=Florentina group=624-626 rating=2.4-4.3 SET group=922 rating=3.9 info=Choir member END
+SELECT group=493 END
+PRINT name group END
+PRINT name group END
+UPDATE name=Nikita group=695 SET rating=2.9 info=Conference moderator END
+INSERT Margarita 918 9.5 Rector's grant recipient END
+SELECT group=968 rating=3.4-4.4 END
+UPDATE group=358 rating=4.3-5.9 SET name=Darina group=380 rating=9.1 END
+RESELECT name=Denis END
+UPDATE name=Mikha* SET name=Vladimir group=640 info=KVN team captain END
+RESELECT group=881 rating=6.0-7.8 END
+SELECT  END
+PRINT name END
+DELETE  END
+UPDATE group=853 rating=2.4-3.6 SET name=Khariton rating=4.5 info=Chess team member END
+RESPONSE name group rating info END
+PRINT name info END
+RESELECT name=Evd* group=853 rating=3.4-5.0 END
+UPDATE group=480 SET name=Agata group=226 info=Privileged category END
+SELECT group=621 rating=2.4-3.9 END
+INSERT Angelina 810 7.3 Performing arts member END
+DELETE name=Adam END
+RESELECT name=Gretta rating=5.1-6.6 END
+RESPONSE name rating END
+RESELECT rating=5.7-7.1 END
+DELETE group=889 rating=3.2-5.1 END
+INSERT Valentina 797 4.8 Academic leave due to illness END
+INSERT Boris 273 4.4 Conference moderator END
+INSERT Zurab 325 9.4 Logistics club member END
+INSERT Fyodor 140 7.6 Volunteer work END
+SELECT  END
+DELETE name=Natalya group=284-291 rating=6.0-7.0 END
+UPDATE name=Polina SET name=Matvey rating=4.2 info=Case championship participant END
+INSERT Ildar 402 7.9 Tourism club member END
+DELETE name=Elvi* rating=3.5-5.1 END
+PRINT name group rating END
+INSERT Alina 252 2.2 Potanin Foundation scholar END
+DELETE name=Ustin* END
+UPDATE group=193 SET group=304 rating=9.5 info=Language courses END
+RESELECT group=431 rating=4.1-5.7 END
+RESELECT  END
+SELECT name=Nin* group=434 END
+SELECT group=891 rating=4.0-5.1 END
+PRINT name group rating info END
+UPDATE name=Igor group=639 rating=2.1-3.6 SET rating=9.0 info=Case championship participant END
+DELETE name=Evgeniy rating=3.8-4.9 END
+RESPONSE name group rating info END
+UPDATE rating=7.1-8.7 SET group=329 rating=4.9 info=Archaeological expedition participant END
+RESPONSE group rating END
+UPDATE  SET name=Bozhena group=824 info=Journal publications END
+PRINT name rating info END
+RESELECT name=Tsvetana group=639 rating=7.7-9.3 END
+SELECT name=Vale* END
+SELECT  END
+RESELECT name=Ekaterina* rating=4.6-6.3 END
+UPDATE name=Boris* group=565-568 rating=4.7-6.0 SET name=Vyacheslav group=711 info=Science Slam winner END
+UPDATE name=Kamilla rating=2.7-4.5 SET name=Zemfira group=515 rating=3.4 END
+DELETE name=Stanislava rating=3.2-5.1 END
+RESELECT name=Ibrag* group=455 rating=5.0-6.2 END
+RESPONSE name group rating info END
+RESELECT group=566-575 END
+DELETE rating=2.4-3.7 END
+INSERT Galina 238 4.1 Orphan END
+PRINT name rating END
+RESPONSE group rating END
+INSERT Mark 393 6.8 Military service deferment END
+PRINT name group rating END
+DELETE group=122 rating=5.7-7.0 END
+RESPONSE name group rating info END
+UPDATE rating=4.2-5.3 SET name=Natalya group=970 rating=8.0 info=Startup project participant END
+RESELECT name=Zlata group=206 END
+RESELECT name=Yaroslav group=894 END
+INSERT David 918 7.2 AI projects participant END
+PRINT name END
+SELECT rating=7.3-8.7 END
+RESPONSE name group rating END
+SELECT  END
+RESELECT name=Yuli* group=756-759 END
+INSERT Yefim 750 7.0 Model UN participant END
+DELETE group=163 END
+INSERT Pelageya 173 5.5 Language courses END
+RESELECT name=Yuliy* END
+PRINT name group END
+PRINT name group rating info END
+RESELECT  END
+RESPONSE name group rating info END
+INSERT Ustin 483 9.8 Single parent END
+RESELECT group=960 rating=6.7-7.9 END
+RESELECT  END
+PRINT rating info END
+DELETE rating=5.0-6.4 END
+INSERT Tsezar 111 8.2 Journal publications END
+DELETE rating=4.8-6.7 END
+DELETE group=274 rating=4.7-6.6 END
+RESPONSE name group rating END
+RESELECT name=German group=118-127 END
+UPDATE rating=4.1-5.6 SET name=Zinoviy group=178 rating=4.3 info=Athletic scholarship END
+DELETE  END
+UPDATE group=795 rating=2.5-4.3 SET name=Leyla info=Volunteer work END
+RESPONSE name rating END
+DELETE name=Yefim END
+INSERT Yakov 650 9.3 Corporate intern END
+INSERT Larisa 104 9.9 Logistics club member END
+INSERT Nadezhda 719 3.1 Study blog author END
+RESELECT name=Marga* rating=6.2-7.5 END
+RESPONSE name group rating END
+DELETE name=Nelli END
+INSERT David 345 2.7 Neuroscience research participant END
+RESELECT  END
+RESPONSE name group rating END
+DELETE rating=7.1-8.5 END
+PRINT name rating END
+UPDATE name=Odisey group=633 SET name=Leyla group=671 rating=9.9 END
+UPDATE name=Kami* group=721 rating=3.6-5.4 SET name=Yuliana group=543 rating=7.5 info=Robotics competition participant END
+RESPONSE name group rating info END
+PRINT name group info END
+RESELECT name=Ignat group=132-142 rating=7.1-8.8 END
+DELETE name=Taras END
+UPDATE name=Oliviya group=374 SET name=Konstantin group=202 info=Entrepreneurship club member END
+PRINT name group rating END
+SELECT name=Bogdan group=549-555 rating=3.3-4.8 END
+SELECT name=Roksa* group=378-387 rating=3.5-4.7 END
+INSERT Roman 470 2.9 Reinstated after dismissal END
+SELECT group=119-123 rating=4.6-6.5 END
+UPDATE name=Umar group=570 SET name=Dominika group=946 rating=4.1 info=Faculty chat administrator END
+DELETE name=Vasiliy rating=2.6-4.3 END
+SELECT group=406 rating=6.0-7.9 END
+DELETE name=Marat* END
+PRINT name group rating END
+RESELECT name=Evgeni* rating=5.8-7.4 END
+UPDATE group=751 rating=3.1-4.4 SET name=Irina group=673 rating=3.3 info=University website developer END
+PRINT name group rating END
+RESELECT group=766-770 rating=2.9-4.5 END
+UPDATE group=509 rating=4.3-6.1 SET name=Lyudmila group=875 rating=6.0 info=International student (contract) END
+RESPONSE name group info END
+RESPONSE group rating info END
+RESELECT  END
+PRINT name rating info END
+SELECT name=Fyod* group=301 rating=2.1-4.0 END
+RESELECT name=Svetlana group=207 rating=7.7-9.1 END
+SELECT name=Yan* END
+DELETE  END
+DELETE name=Yuliana END
+UPDATE group=903 SET name=Adam group=801 info=Academic leave due to illness END
+UPDATE rating=4.2-5.5 SET name=Karina group=708 info=Volunteer work END
+INSERT Ofeliya 568 3.5 University employee END
+SELECT rating=5.2-7.0 END
+DELETE group=623-632 END
+DELETE  END
+RESPONSE name group END
+PRINT name group rating info END
+SELECT name=Fyo* rating=3.9-5.3 END
+DELETE name=Galina group=728 END
+SELECT  END
+RESPONSE name group info END
+RESPONSE name group rating END
+PRINT name rating info END
+DELETE name=Evan* group=606 END
+INSERT Lev 397 6.8 Neuroscience research participant END
+RESPONSE name group info END
+INSERT Teodor 226 8.5 Major change END
+RESELECT  END
+RESELECT name=Vik* group=633-639 rating=3.8-5.8 END
+RESPONSE group info END
+PRINT name group rating END
+UPDATE group=544-554 rating=7.5-9.5 SET name=Zhanna group=150 rating=3.3 info=Olympiad winner END
+UPDATE group=335-342 rating=2.2-3.6 SET name=Yakov group=569 rating=2.3 END
+DELETE name=Vasiliy group=194 rating=4.0-5.4 END
+DELETE name=Eduard END
+RESELECT name=Miroslav* END
+PRINT name group END
+INSERT Angelina 268 4.9 AI projects participant END
+UPDATE group=165-175 SET name=Platon rating=9.4 info=Single parent END
+SELECT name=Zhozefina END
+DELETE group=407 END
+DELETE name=Polina END
+PRINT name group rating END
+RESELECT name=Kseniya END
+INSERT Valeriya 601 7.2 Historical society member END
+RESELECT name=Maksim rating=4.0-5.3 END
+DELETE group=698-700 END
+INSERT Varvara 502 5.2 Chatbot developer END
+RESPONSE name rating info END
+SELECT name=Yuliy* group=420 END
+UPDATE  SET name=Aleksandr rating=8.2 info=Mobile app developer END
+RESELECT name=Valeri* END
+SELECT  END
+RESELECT name=Zhasmin group=463-467 END
+RESPONSE name group rating END
+UPDATE rating=5.9-7.1 SET name=Olga group=539 rating=8.8 info=Major change END
+PRINT name group rating END
+SELECT name=Svetlana group=996 rating=3.4-4.8 END
+SELECT name=Tsvetana group=195 END
+PRINT name group rating info END
+DELETE name=Radislav group=471 rating=2.9-4.1 END
+SELECT group=822 END
+RESELECT name=Zlata END
+SELECT group=896-898 END
+DELETE name=Naomi END
+RESPONSE name group rating END
+INSERT Yuliya 432 2.2 Startup competition winner END
+PRINT name rating END
+PRINT group rating END
+INSERT Veronika 124 6.4 Single parent END
+PRINT name group rating END
+DELETE  END
+RESPONSE name group rating info END
+SELECT group=706 END
+RESPONSE name group rating END
+PRINT name info END
+DELETE name=Gelena END
+INSERT Sharlotta 974 9.0 Data science community member END
+PRINT name group END
+RESELECT name=Yuliya group=207 END
+PRINT name END
+DELETE group=756 rating=8.0-9.4 END
+INSERT Varvara 816 4.9 Honors student END
+UPDATE name=Elina SET name=Evangelina group=629 rating=4.3 info=Athletic scholarship END
+RESELECT group=978 END
+RESELECT  END
+DELETE group=243 END
+SELECT  END
+DELETE name=Angelina* END
+INSERT Yefim 358 5.4 Scientific papers author END
+DELETE group=874 rating=6.2-7.7 END
+UPDATE group=272-282 SET name=Adam group=825 rating=7.4 info=Trade union member END
+RESPONSE name rating END
+SELECT group=939 rating=2.7-3.9 END
+INSERT Valentina 544 9.2 Photojournalist END
+INSERT Ilya 880 6.3 Performing arts member END
+INSERT Georgiy 292 2.6 Quest organizer END
+SELECT group=377 rating=2.2-3.5 END
+INSERT Olga 348 2.7 Sports league member END
+RESELECT group=919 END
+PRINT rating END
+UPDATE  SET name=Ivan group=370 info=Startup competition winner END
+UPDATE  SET name=Ustinya group=258 END
+DELETE  END
+RESPONSE name group rating END
+INSERT Yaromir 466 10.0 Theater studio member END
+PRINT name group rating info END
+RESELECT name=Margarita END
+PRINT group rating info END
+RESPONSE name group END
+DELETE rating=3.7-5.5 END
+INSERT Albert 266 2.2 Essay contest winner END
+PRINT name rating END
+RESPONSE name group info END
+DELETE name=David END
+DELETE  END
+RESPONSE name group rating info END
+PRINT name group rating info END
+RESELECT group=506 rating=2.8-4.2 END
+DELETE name=Nina END
+RESELECT  END
+SELECT  END
+DELETE name=Raisa group=425 END
+PRINT name rating END
+INSERT Dariya 131 9.4 International student (contract) END
+DELETE  END
+UPDATE name=Grigoriy group=798 SET group=263 rating=4.5 END
+RESPONSE name group rating info END
+RESELECT name=Elena group=695-702 END
+RESELECT name=Albert group=710-717 END
+PRINT name group rating END
+RESELECT rating=6.2-7.2 END
+INSERT Darina 913 6.8 Biohacking participant END
+INSERT Dominika 212 7.8 Legal clinic volunteer END
+RESPONSE name group info END
+DELETE name=Pavel rating=2.2-3.9 END
+UPDATE name=Snezhana group=437-438 SET name=Tereza group=199 rating=2.1 info=Archaeological expedition participant END
+UPDATE  SET group=294 rating=6.4 END
+UPDATE rating=7.2-8.7 SET name=Inna info=Scientific society member END
+RESPONSE name group info END
+PRINT name group rating END
+INSERT Raisa 318 7.6 Podcast creator END
+RESPONSE name group rating info END
+DELETE group=500 rating=5.6-6.9 END
+RESPONSE  END
+INSERT Kamilla 632 2.9 Quest organizer END
+SELECT name=Egor rating=5.3-6.6 END
+RESELECT name=Evangelina group=923 rating=7.9-9.5 END
+UPDATE group=981 rating=4.6-5.9 SET group=496 rating=5.2 END
+PRINT name group rating END
+DELETE name=Odisey group=330 rating=6.9-8.2 END
+RESELECT group=469 END
+PRINT group rating info END
+RESELECT group=468-477 END
+SELECT name=Platon rating=2.0-3.1 END
+RESPONSE name group rating info END
+UPDATE name=Zurab group=378 rating=3.4-4.8 SET name=Roksana rating=8.1 info=Reinstated after dismissal END
+RESELECT name=Radislav group=833-837 END
+PRINT rating info END
+DELETE  END
+PRINT name group rating info END
+RESPONSE name group rating END
+UPDATE name=Leyla SET name=Alyona group=969 info=Essay contest winner END
+INSERT Alyona 716 4.4 Dual major END
+PRINT name group rating END
+DELETE name=Igor END
+INSERT Yefim 124 4.3 Festival organizer END
+DELETE group=411 rating=2.2-4.2 END
+PRINT name group rating END
+UPDATE group=300 rating=3.8-5.6 SET name=Irina group=588 rating=7.9 info=Enhanced academic scholarship END
+INSERT Evangelina 329 9.7 Freshmen mentor END
+INSERT Oleg 451 5.3 From large family END
+DELETE  END
+RESELECT group=691 END
+PRINT name group rating info END
+RESPONSE name group rating info END
+RESELECT name=Rozalina rating=5.8-7.4 END
+SELECT name=Gulnara group=455 END
+DELETE group=460 rating=4.4-5.4 END
+INSERT Yuliana 913 5.2 Evening classes END
+DELETE name=Yelizaveta rating=6.2-7.6 END
+SELECT group=929 END
+INSERT Boris 399 8.3 Logistics club member END
+PRINT name group info END
+DELETE group=845 rating=7.4-9.3 END
+SELECT name=Ustinya* rating=7.4-8.5 END
+RESPONSE name group rating END
+UPDATE name=Miroslava rating=3.5-5.5 SET group=148 rating=8.9 info=AI projects participant END
+PRINT name rating END
+RESELECT group=280 END
+UPDATE group=936 SET name=Olga group=165 info=Honors student END
+UPDATE name=Ilya group=131 SET name=Nelli info=Olympiad winner END
+RESELECT group=741 rating=7.1-8.3 END
+SELECT name=Sharlotta* group=672 END
+PRINT name group rating info END
+DELETE name=Zhorzh group=385-389 END
+DELETE group=385 END
+RESPONSE name group rating info END
+RESPONSE name group rating END
+PRINT name group info END
+RESELECT name=Miroslava group=703 END
+RESPONSE group info END
+DELETE group=204 rating=4.4-5.6 END
+SELECT  END
+RESELECT name=Luka END
+INSERT Oksana 402 9.7 Legal clinic volunteer END
+SELECT name=Kirill END
+SELECT  END
+RESELECT name=Lev group=365-372 rating=4.6-5.9 END
+RESELECT  END
+RESPONSE name rating END
+RESELECT group=886 END
+PRINT name group rating info END
+DELETE name=Lyudm* rating=2.5-4.0 END
+INSERT Tereza 920 3.2 Data science community member END
+SELECT name=Emi* rating=3.3-5.0 END
+SELECT name=Gleb rating=2.9-3.9 END
+INSERT Ustin 534 2.1 Archaeological expedition participant END
+RESELECT name=Lyubov rating=6.6-8.2 END
+UPDATE  SET name=Zarina group=691 rating=4.1 info=Performing arts member END
+SELECT group=812 END
+RESELECT name=Darina END
+INSERT Berislava 369 8.6 Mobile app developer END
+RESPONSE  END
+DELETE group=307 END
+SELECT name=Damir rating=2.3-3.7 END
+PRINT name group END
+RESELECT  END
+INSERT Prokhor 452 8.7 IT club member END
+UPDATE group=411-414 SET name=Zurab rating=3.2 END
+SELECT name=Elvira* group=333 rating=3.8-5.5 END
+SELECT rating=3.5-5.4 END
+RESPONSE name group rating info END
+DELETE group=927 END
+SELECT group=251 END
+UPDATE name=Oliviya SET name=Mariya rating=2.8 END
+DELETE  END
+SELECT group=540-550 END
+UPDATE name=Serg* SET name=Raisa group=962 rating=7.5 END
+SELECT name=Yaroslava END
+UPDATE name=Zlata group=404 rating=2.8-4.5 SET name=Zhasmin rating=2.4 END
+RESPONSE group rating info END
+INSERT Naomi 390 3.9 Media projects participant END
+PRINT name group rating END
+RESPONSE name group rating END
+RESELECT name=Bell* rating=4.3-5.5 END
+RESELECT group=810 END
+DELETE group=134-144 rating=2.5-4.4 END
+RESELECT group=803 END
+INSERT Dominika 744 3.1 Model UN participant END
+SELECT rating=6.0-7.3 END
+RESPONSE group rating info END
+RESELECT  END
+PRINT name rating END
+PRINT name rating END
+INSERT Radislav 195 2.3 Language courses END
+RESPONSE name group rating info END
+DELETE name=Valentina group=840 rating=3.6-5.0 END
+DELETE name=Zurab rating=3.1-4.7 END
+RESELECT group=356 END
+RESELECT group=916 END
+RESPONSE name group END
+PRINT name group rating info END
+UPDATE group=250 SET group=961 END
+INSERT Timur 207 3.4 Astronomy club member END
+PRINT name group rating END
+RESELECT name=Leo* rating=7.4-8.6 END
+UPDATE rating=3.2-4.4 SET rating=6.6 info=IT club member END
+SELECT name=Sne* group=526 rating=3.1-4.6 END
+UPDATE group=903 rating=5.7-7.0 SET group=484 info=Charity events organizer END
+RESELECT name=Gelena* END
+DELETE name=Yuliana group=136-146 END
+RESPONSE name rating info END
+RESPONSE name rating info END
+RESELECT group=601 rating=7.7-9.2 END
+DELETE group=788 END
+SELECT group=614-615 rating=3.2-4.7 END
+UPDATE rating=4.9-6.3 SET name=Yaromir rating=8.7 END
+RESPONSE name group END
+UPDATE name=Egor group=616 rating=3.9-5.6 SET group=292 rating=5.9 info=Volunteer work END
+UPDATE name=Zurab group=353 rating=5.7-6.8 SET name=Pyotr group=154 rating=6.5 info=Corporate-sponsored education END
+RESPONSE name group rating END
+DELETE group=265 rating=3.0-4.4 END
+RESPONSE name group rating info END
+INSERT Ivanna 749 4.1 Logistics club member END
+UPDATE name=Nestor* group=167 SET name=Gelena group=137 rating=8.1 info=Science Slam winner END
+SELECT name=Miroslava group=300-306 rating=6.3-7.6 END
+UPDATE name=Teodor group=458 SET name=Valentin group=824 rating=9.8 END
+RESELECT group=182 rating=3.9-5.5 END
+PRINT name info END
+RESELECT group=452 rating=6.6-8.0 END
+RESPONSE group rating END
+PRINT name group END
+UPDATE name=Nesto* SET name=Zurab group=411 rating=8.1 info=Distance learning END
+INSERT Yulian 627 6.4 Programming consultant END
+DELETE name=Timur group=460-469 END
+INSERT Viktoriya 222 9.2 Model UN participant END
+UPDATE name=Timur group=313 rating=5.8-7.2 SET name=Prokhor rating=4.4 info=Dual major END
+SELECT name=Zhdan rating=3.6-5.1 END
+INSERT Shamil 199 6.7 From large family END
+PRINT name rating info END
+SELECT  END
+INSERT Kirill 365 5.3 Biohacking participant END
+INSERT Bogdana 683 6.0 Literary club member END
+DELETE name=Leonid group=441 END
+SELECT rating=4.2-5.8 END
+RESELECT name=Anna group=773 END
+SELECT name=Kamilla group=465 rating=2.3-4.1 END
+PRINT name rating END
+PRINT name group rating info END
+RESPONSE name group rating info END
+RESPONSE name group info END
+RESPONSE rating info END
+UPDATE  SET info=Scientific society member END
+RESPONSE name rating END
+UPDATE group=881 SET name=Sergey group=256 END
+DELETE name=Polina END
+PRINT name group rating info END
+UPDATE group=349 SET name=Zhasmin group=295 rating=7.6 info=Case championship participant END
+PRINT name group rating END
+DELETE name=Yana group=811-820 END
+RESELECT name=Val* END
+PRINT name group rating info END
+PRINT name END
+DELETE  END
+SELECT  END
+PRINT name rating END
+RESPONSE name rating info END
+PRINT name group rating END
+INSERT Roman 548 10.0 Tourism club member END
+PRINT name group rating info END
+INSERT Gennadiy 307 2.8 Legal clinic volunteer END
+INSERT Umar 403 3.4 Choir member END
+DELETE group=586-591 rating=3.8-5.1 END
+DELETE  END
+DELETE name=Yeliza* END
+UPDATE name=Rusl* rating=6.7-8.3 SET name=Venera group=523 rating=4.8 END
+RESELECT name=Gennadiy END
+DELETE name=Nes* group=241 rating=5.8-7.4 END
+PRINT name group END
+RESPONSE name group rating info END
+RESPONSE name group rating END
+SELECT rating=3.6-5.3 END
+RESPONSE name group rating info END
+UPDATE group=362 rating=6.1-7.9 SET name=Evdokim rating=9.3 info=State-funded education END
+RESPONSE group rating info END
+RESPONSE group rating info END
+DELETE  END
+UPDATE name=Eduar* group=797 rating=2.3-4.2 SET name=Zlata END
+DELETE name=Nestor rating=7.3-9.1 END
+INSERT Kamilla 381 6.0 Essay contest winner END
+UPDATE group=352 rating=3.7-4.9 SET name=Zurab rating=5.8 info=Mobile app developer END
+INSERT Egor 239 8.6 Combining work and study END
+PRINT name group rating info END
+SELECT name=Fatima END
+SELECT group=901 END
+UPDATE name=Vasilisa rating=2.5-4.5 SET name=Yaroslav group=464 info=Privileged category END
+RESELECT name=Debor* group=691-699 END
+RESPONSE name rating info END
+RESPONSE name group rating info END
+RESPONSE name group rating END
+INSERT Nikita 748 4.1 Internship abroad END
+PRINT name group END
+INSERT Anton 276 3.6 Charity events organizer END
+INSERT Inna 571 4.3 Military service deferment END
+RESELECT  END
+DELETE name=Roman group=818-824 rating=7.7-9.3 END
+UPDATE name=Valeriy rating=3.5-5.5 SET name=Stanislav group=400 rating=9.3 info=Charity events organizer END
+RESPONSE group rating END
+SELECT  END
+RESELECT name=Emir* group=980 END
+RESELECT rating=5.7-7.0 END
+PRINT name rating END
+UPDATE group=537-546 SET group=310 rating=9.2 info=Hackathon winner END
+PRINT group rating END
+INSERT Viktoriya 223 7.2 Potanin Foundation scholar END
+DELETE name=Timur* END
+SELECT rating=3.1-4.5 END
+RESPONSE group rating info END
+RESPONSE name group END
+RESELECT name=Bogdana* END
+SELECT name=Natal* group=387 END
+DELETE name=Georgiy rating=2.7-3.9 END
+UPDATE name=Ulyana group=646 SET name=Ildar group=389 rating=7.9 info=Archaeological expedition participant END
+INSERT Fatima 400 7.7 Tourism club member END
+DELETE group=979-984 rating=4.0-5.8 END
+INSERT Faina 819 9.0 IT club member END
+RESPONSE name group rating info END
+DELETE group=258 END
+SELECT name=Yulian group=428 END
+INSERT Nelli 933 6.2 University website developer END
+DELETE group=140 END
+PRINT name group rating info END
+DELETE name=Egor group=698 rating=5.5-6.8 END
+PRINT rating info END
+RESELECT name=Zha* group=182 END
+UPDATE rating=3.4-4.7 SET name=Yuliana group=713 rating=7.5 END
+RESPONSE name group rating info END
+PRINT name group rating info END
+INSERT Irina 485 6.1 Olympiad winner END
+SELECT group=655 END
+SELECT name=Dmitriy rating=6.3-7.8 END
+RESELECT name=Milana group=829 END
+PRINT group rating END
+PRINT group rating info END
+DELETE group=577 END
+SELECT name=Dariya group=610 rating=7.3-9.0 END
+UPDATE  SET group=471 info=Startup project participant END
+SELECT group=373 END
+SELECT name=Daniil rating=6.8-8.5 END
+INSERT Gleb 171 7.9 University employee END
+DELETE name=Bogdana rating=3.4-5.3 END
+PRINT name rating END
+RESPONSE name group END
+RESPONSE name group info END
+DELETE name=Klim group=330 rating=5.8-6.8 END
+PRINT name info END
+DELETE  END
+PRINT name group rating info END
+UPDATE name=Yunona rating=6.9-8.1 SET group=757 rating=3.1 info=Student newspaper editor END
+SELECT group=578 END
+RESELECT  END
+DELETE name=Izabella group=843 END
+DELETE name=Evelin* rating=3.5-4.9 END
+INSERT Yuliya 405 8.1 Mobile app developer END
+RESELECT rating=3.7-5.6 END
+UPDATE name=Matvey group=670 SET name=Sharlotta rating=3.7 info=Charity events organizer END
+UPDATE group=106 SET name=Boris rating=3.5 info=Tourism club member END
+INSERT Ulyana 952 8.7 Programming consultant END
+INSERT Rozalina 261 2.2 Logistics club member END
+INSERT Ibragim 831 6.3 Essay contest winner END
+PRINT name rating info END
+UPDATE name=Agata rating=6.7-7.9 SET name=Kseniya group=472 rating=7.3 info=Programming consultant END
+UPDATE name=Gennadiy rating=5.1-6.7 SET name=Bella group=567 rating=8.8 info=Erasmus+ participant END
+PRINT name group rating info END
+SELECT rating=2.5-3.7 END
+UPDATE group=382 SET group=170 END
+SELECT name=Valentin END
+RESELECT name=Nelli group=869 END
+INSERT Daniil 396 3.3 Scientific papers author END
+RESELECT group=950 rating=5.4-6.8 END
+SELECT rating=7.3-8.7 END
+PRINT group rating END
+DELETE name=Florenti* group=955-957 END
+UPDATE name=Yur* group=299 rating=4.1-5.6 SET name=Aleksandr group=805 rating=2.8 END
+PRINT  END
+SELECT name=Taras* group=901 END
+PRINT name group rating info END
+RESPONSE name group info END
+INSERT Lyudmila 592 8.5 Design competition winner END
+DELETE name=Aleksandr group=194-202 END
+PRINT name info END
+PRINT name group rating END
+DELETE name=Mara* group=798 END
+RESPONSE name group rating END
+RESELECT rating=4.2-5.7 END
+DELETE  END
+DELETE group=909 END
+DELETE name=Galina END
+DELETE name=Viktor group=415 rating=3.8-5.1 END
+DELETE group=430 END
+DELETE group=787 END
+INSERT Eduard 264 7.1 IT club member END
+RESPONSE name group rating info END
+PRINT name group rating info END
+INSERT Zhdan 956 4.3 Environmental movement member END
+DELETE  END
+DELETE name=Igor group=788 END
+RESPONSE group rating END
+INSERT Zoya 145 5.0 Volunteer work END
+INSERT Rozalina 180 4.0 Freshmen mentor END
+RESELECT rating=4.9-6.8 END
+RESELECT name=Ivanna END
+UPDATE group=299 rating=3.3-4.3 SET name=Agata info=Case championship participant END
+SELECT group=635 rating=7.1-8.7 END
+DELETE group=277 rating=7.2-8.8 END
+RESPONSE name group rating info END
+SELECT name=Oskar END
+PRINT rating END
+RESELECT group=535 rating=3.9-5.3 END
+SELECT name=Semyon END
+RESELECT group=519-529 END
+INSERT Yelizaveta 253 4.6 Literary club member END
+UPDATE name=Sergey rating=5.0-6.2 SET name=Yefim group=674 rating=5.4 info=Repeating a year END
+RESELECT group=404 END
+INSERT Yakov 105 5.5 Individual study plan END
+RESPONSE name group info END
+UPDATE name=Stanislav group=470 SET name=Yasmina group=327 rating=2.4 info=Military service deferment END
+UPDATE  SET rating=3.5 info=Corporate intern END
+UPDATE name=Valent* rating=2.5-3.5 SET name=Margarita rating=7.2 END
+RESELECT name=Evelina END
+UPDATE  SET name=Shamil END
+PRINT name group END
+RESPONSE name group rating END
+PRINT name group rating info END
+PRINT name rating END
+INSERT Alyona 528 5.3 University website developer END
+UPDATE name=Daniil group=662 SET name=Timofey group=874 info=Entrepreneurship club member END
+RESPONSE name group END
+SELECT name=Florentina group=907 rating=2.1-3.5 END
+DELETE group=797-798 rating=5.2-6.8 END
+RESPONSE name group rating END
+RESELECT  END
+PRINT group rating info END
+DELETE name=Vyacheslav group=194 rating=7.9-9.0 END
+INSERT Khariton 215 7.0 Photojournalist END
+SELECT group=196 END
+DELETE rating=2.6-4.4 END
+DELETE group=788 rating=6.7-8.3 END
+UPDATE name=Artyom group=751-759 SET name=Gavriil END
+DELETE group=824 rating=5.7-6.7 END
+DELETE group=894 END
+SELECT rating=6.1-8.0 END
+RESELECT name=Oksan* rating=2.1-4.0 END
+RESELECT rating=6.1-7.7 END
+RESPONSE name group rating info END
+UPDATE name=Ilda* rating=5.3-6.5 SET name=Yunona group=688 rating=9.8 info=Psychology club member END
+INSERT Matvey 848 9.3 Startup project participant END
+RESELECT group=571-572 END
+RESPONSE name group info END
+DELETE name=Pyotr rating=5.1-6.2 END
+RESELECT  END
+DELETE group=121 rating=8.0-9.7 END
+RESPONSE name group info END
+DELETE rating=6.3-7.7 END
+RESPONSE name END
+RESELECT name=Serafima group=164-172 rating=2.9-4.8 END
+PRINT group rating END
+UPDATE  SET group=150 END
+PRINT name group END
+SELECT  END
+DELETE name=Yasmina END
+RESPONSE name END
+UPDATE group=210 rating=6.9-8.1 SET name=Tsezar group=624 info=Tourism club member END
+RESELECT name=Teo* rating=6.0-7.4 END
+UPDATE group=107-113 SET group=987 rating=2.4 END
+RESPONSE group rating info END
+PRINT name group rating END
+PRINT name group END
+SELECT name=Maks* group=864 rating=5.7-7.2 END
+PRINT name group rating info END
+RESELECT  END
+RESELECT rating=5.6-7.4 END
+RESPONSE name rating info END
+INSERT Bozhena 669 6.3 Privileged category END
+UPDATE rating=3.2-4.5 SET name=Nelli info=Historical society member END
+PRINT name group rating END
+PRINT name rating info END
+UPDATE name=Luka rating=7.3-9.2 SET group=121 info=Part-time education END
+RESPONSE name group rating END
+DELETE rating=7.1-8.5 END
+DELETE rating=4.3-6.0 END
+UPDATE name=Ibragim SET name=Raisa group=266 rating=3.3 END
+DELETE group=824-832 END
+SELECT rating=5.1-6.9 END
+RESELECT name=Valentina END
+DELETE group=950 END
+RESELECT group=297 END
+RESPONSE group rating END
+SELECT name=Yan group=742 END
+RESPONSE name group END
+UPDATE group=163 SET name=Yulian group=335 rating=4.7 info=Trade union member END
+UPDATE name=Gavriil rating=5.5-7.5 SET name=Konstantin rating=7.3 info=Journal publications END
+INSERT Pyotr 408 3.2 Contract-based education END
+RESELECT group=948 rating=2.6-4.4 END
+INSERT Artur 188 4.1 International programs participant END
+RESELECT name=Flo* group=568 rating=4.5-5.6 END
+DELETE rating=7.3-8.6 END
+RESELECT name=Zemfira group=809 rating=5.5-6.8 END
+RESPONSE name rating END
+SELECT name=Ant* END
+SELECT name=Oleg group=326 rating=6.6-7.9 END
+RESPONSE name group rating info END
+INSERT Eduard 653 4.7 Dual major END
+DELETE name=Vas* END
+SELECT name=Odi* group=142 rating=4.7-6.6 END
+RESPONSE name group rating END
+PRINT group rating END
+PRINT name rating END
+INSERT Lev 961 7.6 Entrepreneurship club member END
+DELETE name=Roksana group=994 END
+DELETE group=259 rating=2.8-4.5 END
+RESPONSE name group rating END
+UPDATE name=Izabella group=383 rating=7.9-9.9 SET name=Radislav group=271 rating=6.2 info=Hackathon winner END
+RESPONSE name rating END
+DELETE name=Savva group=576-577 rating=5.5-6.5 END
+SELECT name=Faina END
+SELECT rating=5.7-6.8 END
+UPDATE group=582 rating=6.1-7.8 SET name=Prokhor group=907 END
+RESELECT  END
+SELECT name=Diana rating=6.2-7.2 END
+RESPONSE name group rating END
+PRINT name rating END
+SELECT name=Umar END
+PRINT name group rating info END
+RESELECT group=277 rating=6.0-7.7 END
+RESPONSE name group rating END
+PRINT name group rating END
+UPDATE name=Vlad* group=545-550 rating=7.8-9.1 SET name=German group=870 info=Scientific papers author END
+RESELECT group=791 END
+RESPONSE name group rating info END
+INSERT Elvira 728 7.5 Literary club member END
+RESPONSE name group END
+RESPONSE name group rating END
+SELECT group=650 END
+PRINT name group rating END
+PRINT group rating info END
+PRINT group END
+PRINT name rating info END
+UPDATE name=Evange* group=564 rating=3.3-5.2 SET  END
+RESELECT name=Mar* END
+RESPONSE group rating END
+RESELECT name=Darina rating=3.0-4.5 END
+RESPONSE name rating END
+DELETE name=Snezhana group=525 rating=5.4-6.9 END
+RESELECT group=974 rating=2.2-3.7 END
+DELETE name=Ibragim group=867 END
+INSERT Nadezhda 814 6.6 International programs participant END
+INSERT Valentina 898 2.4 Mobile app developer END
+INSERT Teodor 995 6.0 Reinstated after dismissal END
+SELECT name=Teodor END
+UPDATE group=424 SET name=Berislava group=813 rating=4.0 info=Neuroscience research participant END
+RESPONSE name group rating info END
+SELECT rating=5.3-6.9 END
+SELECT group=617 END
+DELETE name=Bori* END
+RESPONSE name group rating info END
+DELETE name=Fyodor group=738 rating=3.6-4.9 END
+INSERT Ustin 952 5.2 Legal clinic volunteer END
+UPDATE  SET name=Tsvetana group=406 info=Entrepreneurship club member END
+INSERT Ibragim 516 6.1 Science Slam winner END
+PRINT name group rating info END
+INSERT Lyudmila 279 5.0 Robotics competition participant END
+UPDATE rating=5.6-7.0 SET group=978 rating=9.6 info=Theater studio member END
+UPDATE name=Tsv* rating=4.2-6.1 SET name=Kseniya rating=4.4 END
+INSERT Luka 839 2.2 Orphanage volunteer END
+PRINT name group rating info END
+SELECT rating=7.8-9.4 END
+UPDATE rating=6.4-7.7 SET name=Mariya group=206 rating=9.3 info=Essay contest winner END
+UPDATE name=Ustin group=757 SET group=767 info=AI projects participant END
+RESPONSE rating info END
+RESPONSE name group rating info END
+RESPONSE name group rating info END
+SELECT name=Yan rating=7.0-8.7 END
+SELECT group=208 END
+PRINT group rating info END
+UPDATE rating=4.8-6.0 SET name=Yeseniya group=391 rating=7.8 info=Math tutor END
+DELETE rating=3.9-5.4 END
+INSERT Vasilisa 122 9.5 Combining work and study END
+UPDATE name=Georgiy SET name=Damir group=956 rating=2.4 info=Mobile app developer END
+DELETE name=Florentina group=297 rating=3.5-4.9 END
+UPDATE group=742 SET name=Gretta group=408 rating=8.0 info=Conference moderator END
+RESELECT  END
+RESELECT name=Iya group=417 rating=3.6-5.1 END
+RESELECT group=380-386 rating=4.2-5.5 END
+SELECT name=Bogdana group=934-937 rating=5.3-6.6 END
+RESELECT  END
+PRINT name group rating END
+RESELECT group=406 END
+SELECT group=274 rating=7.0-8.1 END
+PRINT name group rating info END
+DELETE name=Nadezhda group=579 rating=4.5-6.4 END
+DELETE rating=6.1-7.1 END
+PRINT name rating END
+UPDATE name=Larisa SET name=Regina rating=3.4 info=Custom term paper writer END
+PRINT group END
+SELECT name=Gulnara* group=315 rating=7.7-9.0 END
+SELECT name=Mar* END
+PRINT name group rating info END
+INSERT Yan 448 7.1 Hackathon winner END
+SELECT name=Albert group=448 rating=5.9-7.0 END
+PRINT name group rating END
+PRINT group rating END
+UPDATE rating=7.5-9.4 SET name=Gelena group=440 rating=8.8 info=Media projects participant END
+DELETE rating=7.8-8.9 END
+PRINT name group rating END
+RESPONSE name group END
+RESELECT group=799-809 END
+SELECT group=806 END
+INSERT Karina 340 6.8 Biohacking participant END
+DELETE name=Erik END
+UPDATE  SET name=Pelageya rating=9.6 info=Philosophy circle member END
+UPDATE  SET name=Ibragim group=887 END
+RESPONSE name group rating info END
+PRINT group rating info END
+SELECT group=405 END
+DELETE group=284-294 END
+SELECT name=Semyon END
+RESELECT group=610 END
+RESELECT group=943 rating=6.8-8.7 END
+DELETE name=Evdokim group=966-969 END
+RESPONSE name group rating END
+RESPONSE group rating info END
+SELECT name=Gleb END
+INSERT Yuliana 296 3.1 Choir member END
+SELECT name=Nikita group=455 rating=4.7-6.1 END
+RESPONSE name group rating END
+PRINT name group rating info END
+UPDATE name=Anna group=754 rating=4.7-6.7 SET group=370 rating=7.2 END
+PRINT name group rating info END
+SELECT name=Nelli rating=2.3-3.5 END
+INSERT Savva 467 4.6 Game developer END
+DELETE name=Dmitriy rating=6.6-8.4 END
+SELECT group=473 rating=2.9-4.5 END
+PRINT name group rating info END
+PRINT name group rating info END
+UPDATE  SET rating=5.6 info=International programs participant END
+SELECT name=Pyo* END
+INSERT Yeseniya 248 7.5 Scientific papers author END
+RESPONSE name rating info END
+PRINT name group rating info END
+PRINT name group rating info END
+RESELECT name=Diana rating=4.5-5.7 END
+SELECT  END
+PRINT name group rating END
+DELETE  END
+SELECT rating=5.5-7.4 END
+RESELECT name=Raisa group=811 END
+PRINT group info END
+SELECT name=Bozhena rating=5.2-6.7 END
+INSERT Igor 109 10.0 Erasmus+ participant END
+SELECT name=Serafi* rating=4.5-6.2 END
+INSERT Ivan 457 4.5 Orphanage volunteer END
+RESELECT name=Khariton END
+INSERT Valeriy 497 8.5 Science competition participant END
+UPDATE rating=5.1-6.4 SET name=Galina group=879 rating=2.7 info=International student (contract) END
+UPDATE name=Katarina group=538 SET group=982 rating=8.4 END
+PRINT group rating info END
+RESELECT name=Prokhor group=172 END
+UPDATE group=839 rating=3.5-5.2 SET name=Bozhena group=711 rating=5.8 info=Startup project participant END
+PRINT name group info END
+DELETE name=Nelli group=641 rating=3.1-4.6 END
+DELETE rating=2.1-4.0 END
+UPDATE name=Yeseniya SET name=Zurab group=175 rating=8.2 info=Philosophy circle member END
+SELECT group=928 rating=4.9-6.1 END
+INSERT Savva 716 5.5 Historical society member END
+PRINT group END
+DELETE name=Yel* group=396 rating=6.6-8.5 END
+RESELECT name=Vyache* END
+DELETE name=Grigoriy group=172 rating=7.2-8.9 END
+PRINT name group rating info END
+DELETE name=Evelina END
+PRINT name group rating info END
+INSERT Konstantin 215 3.3 Tourism club member END
+SELECT name=Zhanna group=133 END
+DELETE name=Ivanna rating=7.4-8.5 END
+UPDATE name=Yuliana group=660-661 rating=4.0-5.1 SET name=Timofey rating=3.6 info=Enhanced academic scholarship END
+UPDATE rating=2.4-4.3 SET group=947 info=Political debates participant END
+RESPONSE name group rating info END
+PRINT name rating END
+RESELECT name=Yur* END
+PRINT name rating END
+DELETE  END
+INSERT Lyudmila 621 4.9 AI projects participant END
+DELETE name=Yuliana rating=5.0-6.4 END
+RESELECT name=Dia* rating=5.8-7.7 END
+INSERT Oskar 163 3.3 Podcast creator END
+RESELECT rating=2.7-3.9 END
+RESELECT group=607-612 rating=4.6-6.2 END
+UPDATE name=Zarina rating=5.9-7.4 SET rating=8.7 info=Freshmen mentor END
+RESPONSE name group rating info END
+UPDATE name=Tereza group=596 SET group=404 rating=4.7 info=Robotics competition participant END
+RESPONSE name rating info END
+exit

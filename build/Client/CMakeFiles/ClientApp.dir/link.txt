@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ClientApp.dir/Source.cpp.o -o ClientApp  -Wl,-rpath,/home/igor/anaconda3/lib /home/igor/anaconda3/lib/libboost_system.so.1.82.0 
