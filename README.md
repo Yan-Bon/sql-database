@@ -150,6 +150,4 @@ CMakeLists   -> build configuration
 
 ---
 
-# Author
 
-Educational DBMS project written in C++.
